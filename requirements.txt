@@ -5,3 +5,7 @@ vibrant
 
 dark mode
 videos calls
+
+payment option
+send money
+receive money
